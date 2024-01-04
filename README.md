@@ -1,5 +1,5 @@
 ### Hi there Im Ahmed  👋
-</pr>
+</hr>
 **a skilled Web Developer with the ability to develop fully functional web applications supported by the latest technology and designs. Let me bring your vision to life and create an amazing user experience for your clients. Contact me today!** 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmed4567&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
